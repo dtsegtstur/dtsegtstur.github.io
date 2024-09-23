@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://dtsegtstur.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://dtsegtstur.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dtsegtstur.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Hugo Blox</title>
+      <link>https://dtsegtstur.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://dtsegtstur.github.io/en/post/04/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dtsegtstur.github.io/en/post/04/</guid>
+      <description>&lt;p&gt;Monday - Woke up earlier than usual, today is the programming seminar. After that - to the library to prepare for the mathematical analysis test.&lt;/p&gt;
+&lt;p&gt;Tuesday - Mathematical analysis test - passed! In the evening - to the gym to refresh the brain after a hard day.&lt;/p&gt;
+&lt;p&gt;Wednesday - Classes on probability theory, lunch in the cafeteria. In the evening - to the library, preparing for the programming seminar.&lt;/p&gt;
+&lt;p&gt;Thursday - Spent the day at the university, classes, lunch in the cafeteria. In the evening - met with friends in the dorm, played board games.&lt;/p&gt;
+&lt;p&gt;Friday - Free day! Slept until noon, then met friends from another group. In the evening - a walk around Moscow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://dtsegtstur.github.io/en/post/03/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dtsegtstur.github.io/en/post/03/</guid>
+      <description>&lt;p&gt;Monday - Woke up with the thought: &amp;ldquo;The discrete math exam is coming up!&amp;rdquo; Spent the day in the library studying materials.&lt;/p&gt;
+&lt;p&gt;Tuesday - Passed the discrete math exam! Excellent! Celebrated with friends in the dorm. In the evening, we watched a movie.&lt;/p&gt;
+&lt;p&gt;Wednesday - Classes on mathematical analysis, lunch in the cafeteria. In the evening - played board games with dorm mates.&lt;/p&gt;
+&lt;p&gt;Thursday - Free day! Walked around Moscow, visited a museum. In the evening - met with friends from another group.&lt;/p&gt;
+&lt;p&gt;Friday - Morning - algebra classes. In the evening - to the cafeteria, then back to the dorm to prepare for the programming seminar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://dtsegtstur.github.io/en/post/02/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dtsegtstur.github.io/en/post/02/</guid>
+      <description>&lt;p&gt;Monday - Free day! Slept in, walked around Moscow, and in the evening met with friends studying in other faculties.&lt;/p&gt;
+&lt;p&gt;Tuesday - Classes on mathematical analysis, lunch in the cafeteria. In the evening - to the library, preparing for the programming seminar.&lt;/p&gt;
+&lt;p&gt;Wednesday - Morning - programming seminar. Then - running training in the park. In the evening - relaxed, read a book.&lt;/p&gt;
+&lt;p&gt;Thursday - Classes on discrete mathematics, lunch in the cafeteria. In the evening - played table tennis with dorm neighbors.&lt;/p&gt;
+&lt;p&gt;Friday - Morning - linear algebra classes. In the evening - celebrated the end of the week with friends in the dorm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://dtsegtstur.github.io/en/post/01/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dtsegtstur.github.io/en/post/01/</guid>
+      <description>&lt;p&gt;Monday - at RUDN the atmosphere is great! In the evening, I met the neighbors, we played board games.&lt;/p&gt;
+&lt;p&gt;Tuesday - In the morning - an introductory lecture on discrete mathematics, my brain is already boiling. Lunch in the cafeteria, then a programming lab. In the evening - to the library, working on math problems.&lt;/p&gt;
+&lt;p&gt;Wednesday - Classes on algebra and probability theory, had lunch with groupmates. In the evening - a walk around RUDN territory, then back to the dorm to prepare for the programming seminar.&lt;/p&gt;
+&lt;p&gt;Thursday - Programming seminar - wrote a data processing program. After that - to the gym to refresh the mind. In the evening - watched a movie with the guys.&lt;/p&gt;
+&lt;p&gt;Friday - A busy day - linear algebra class, then a meeting with the mentor to discuss the study plan. Evening - relaxation, pizza, and games with friends.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
